@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashwin Balaji T R</h1>
 <h3 align="center">Aspiring data scientist from India</h3>
-<a align="center" href="https://aswinbalajitr.github.io/Portfolio/">aswinbalajitr.github.io/Portfolio/</a>
+<h3 align="center><a align="center" href="https://aswinbalajitr.github.io/Portfolio/">aswinbalajitr.github.io/Portfolio/</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswinbalajitr&label=Profile%20views&color=0e75b6&style=flat" alt="aswinbalajitr" /> </p>
 
