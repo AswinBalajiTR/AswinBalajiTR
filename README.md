@@ -102,10 +102,6 @@
 
 <h4 align="left">Recent articles:</h4>
 
-###
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswinbalajitr&show_icons=true&locale=en" alt="aswinbalajitr" /></p>
-###
-
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=ab027&theme=dark" alt="Layout with last medium posts"  />
 </div>
