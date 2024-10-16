@@ -1,4 +1,4 @@
-<h2 align="center">Hi👋, I'm Ashwin Balaji T R! <br>Data Analyst | ML Engineer | AI Enthusiast</h2>
+<h2 align="center">Hi👋, I'm Aswin Balaji Thippa Ramesh! <br>Data Analyst | ML Engineer | AI Enthusiast</h2>
 
 ###
 
