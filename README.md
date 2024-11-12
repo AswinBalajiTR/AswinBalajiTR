@@ -50,10 +50,6 @@ I build predictive models and analyze data using the latest tools, backed by a s
 - ⚡ Fun fact: I keep night shift switched on at all times   
 
 
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
 
 <br/>  
