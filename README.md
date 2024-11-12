@@ -24,6 +24,8 @@
 </a>  
   
 
+
+
 ### Glad to see you here!  
 I’m an aspiring data scientist with a passion for machine learning and AI. Think of me as a digital detective, always on the hunt for patterns and insights in the data wilderness. 
 
@@ -83,11 +85,11 @@ I build predictive models and analyze data using the latest tools, backed by a s
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aswinbalajitr&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aswinbalajitr&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinbalajitr&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinbalajitr&hide_border=true&layout=compact" align="center" /></div>
 
 </td></tr></table>  
 
