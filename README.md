@@ -36,7 +36,7 @@ I build predictive models and analyze data using the latest tools, backed by a s
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🌱 I’m currently pursuing MS in Data Science at The George Washington University  
   
