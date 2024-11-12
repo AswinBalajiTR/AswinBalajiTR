@@ -107,8 +107,3 @@ I build predictive models and analyze data using the latest tools, backed by a s
 
 <br/>  
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
