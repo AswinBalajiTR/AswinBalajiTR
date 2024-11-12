@@ -41,7 +41,7 @@ I build predictive models and analyze data using the latest tools, backed by a s
 - 🌱 I’m currently pursuing MS in Data Science at The George Washington University  
   
 
-- 🔭 I’m currently working on [Loan Approval Prediction] (https://github.com/AswinBalajiTR/Loan_Approval_Prediction)  
+- 🔭 I’m currently working on [Loan Approval Prediction](https://github.com/AswinBalajiTR/Loan_Approval_Prediction)  
   
 
 - ❓ Ask me about anything related to Data Science stack and related technologies  
