@@ -24,8 +24,6 @@
 </a>  
   
 
-
-
 ### Glad to see you here!  
 I’m an aspiring data scientist with a passion for machine learning and AI. Think of me as a digital detective, always on the hunt for patterns and insights in the data wilderness. 
 
