@@ -41,7 +41,7 @@ I build predictive models and analyze data using the latest tools, backed by a s
 - 🌱 I’m currently pursuing MS in Data Science at The George Washington University  
   
 
-- 🔭 I’m currently working on [Ship Performance Clustering]([https://github.com/AswinBalajiTR/Ship-Performance-Clustering])  
+- 🔭 I’m currently working on [Ship Performance Clustering](https://github.com/AswinBalajiTR/Ship-Performance-Clustering)
   
 
 - ❓ Ask me about anything related to Data Science stack and related technologies  
